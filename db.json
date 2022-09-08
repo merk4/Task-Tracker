@@ -1,13 +1,19 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "ΕΟΟ PC Updates",
-      "day": "May 6th at 1:30pm",
+      "id": 3,
+      "text": "Nike Store Technical Assistance",
+      "day": "May 7th at 12:30pm",
       "reminder": false
     },
     {
-      "id": 3,
+      "id": 4,
+      "text": "Nike Store Technical Assistance",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 5,
       "text": "Nike Store Technical Assistance",
       "day": "May 7th at 12:30pm",
       "reminder": false
